@@ -1,0 +1,72 @@
+<eg>
+<p1>
+	<id_pracownika>1</id_pracownika>
+	<nazwisko>Halemba</nazwisko>
+	<imie>Iwona</imie>
+	<nip>231-190-76-21</nip>
+	<pesel>69101223456</pesel>
+</p1>
+<p2>
+	<id_pracownika>2</id_pracownika>
+	<nazwisko>Kulczyk</nazwisko>
+	<imie>Jacek</imie>
+	<nip>190-120-67-12</nip>
+	<pesel></pesel>
+</p2>
+<p3>
+	<id_pracownika>3</id_pracownika>
+	<nazwisko>Jaskowski</nazwisko>
+	<imie>Ireneusz</imie>
+	<nip></nip>
+	<pesel>71110212345</pesel>
+</p3>
+<p4>
+	<id_pracownika>4</id_pracownika>
+	<nazwisko>Kowalczyk</nazwisko>
+	<imie>Monika</imie>
+	<nip>111-234-23-23</nip>
+	<pesel>76032390876</pesel>
+</p4>
+<p5>
+	<id_pracownika>5</id_pracownika>
+	<nazwisko>Malinowski</nazwisko>
+	<imie>Jacek</imie>
+	<nip>123-123-12-12</nip>
+	<pesel></pesel>
+</p5>
+<p6>
+	<id_pracownika>6</id_pracownika>
+	<nazwisko>Halemba</nazwisko>
+	<imie>Iwona</imie>
+	<nip>231-190-76-21</nip>
+	<pesel>69101223456</pesel>
+</p6>
+<p7>
+	<id_pracownika>7</id_pracownika>
+	<nazwisko>Kulczyk</nazwisko>
+	<imie>Jacek</imie>
+	<nip>190-120-67-12</nip>
+	<pesel></pesel>
+</p7>
+<p8>
+	<id_pracownika>8</id_pracownika>
+	<nazwisko>Jaskowski</nazwisko>
+	<imie>Ireneusz</imie>
+	<nip></nip>
+	<pesel>71110212345</pesel>
+</p8>
+<p9>
+	<id_pracownika>9</id_pracownika>
+	<nazwisko>Kowalczyk</nazwisko>
+	<imie>Monika</imie>
+	<nip>111-234-23-23</nip>
+	<pesel>76032390876</pesel>
+</p9>
+<p10>
+	<id_pracownika>10</id_pracownika>
+	<nazwisko>Malinowski</nazwisko>
+	<imie>Jacek</imie>
+	<nip>123-123-12-12</nip>
+	<pesel></pesel>
+</p10>
+</eg>

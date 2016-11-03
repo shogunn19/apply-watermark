@@ -1,0 +1,37 @@
+<meta charset="windows-1250"/>
+<br/>
+<br/><a href="tekst.txt">Kliknij, aby ściągnąć plik</a>
+<br/> <a href="mailto:s187010@wizard.uek.krakow.pl">Kliknij, aby napisać e-mail</a>
+
+<form action="przetwarzaj.php>
+<br>
+Miejscowość:<input type="text" name="miejsce" size="30" maxlength="50" value="Kraków"/><br>
+Hasło:<input type="password" name="haslo" size="20"/><br>
+<textarea name="komentarz" rows="4" cols="30">Wpisz komentarz</textarea><br>
+<input type="checkbox" name="nazwa" checked />Zapoznałem(-am) się z regulaminem<br><br>
+
+Wybierz markę samochodu do ubezpieczenia:<br>
+<input type="radio" name="marka" value="audi" />audi<br>
+<input type="radio" name="marka" value="bmw" />bmw<br>
+<input type="radio" name="marka" value="citroen" />citroen<br>
+<input type="radio" name="marka" value="inny" />inny<br>
+<br>
+Jaki kolor lubisz najbardziej?<br>
+<select name="kolor" size="4" multiple>
+<option value="czerwony" />czerwony
+<option value="green" />zielony
+<option value="0" />niebieski
+<option value="b" />brązowy
+<option value="czarny" />czarny
+</select>
+
+<br>
+Wybierz plik:<input type="file" size="20" name="plik"/><br>
+<input type="hidden" name="liczba" value="45"/><br>
+<br>
+<input type="checkbox" name="miasto" id="x">
+<label for="x">Mieszkam w Krakowie</label><br>
+<br>
+<input type="submit" value="prześlij"/><br>
+<input type="reset" value="resetuj"/><br>
+</form>

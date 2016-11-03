@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<script language="javascript">
+function funkcja1(x){
+
+wzor =/^[^5]*5[^5]*$/
+
+if( !x.value.match(wzor)) alert(" Nie podales ani jednej cyfry 5");
+}
+
+</script>
+
+</head>
+
+<body>
+<form name="formularz" method="post" >
+W polu musi wystapic dokladnie jedna liczba 5<br>
+<input type="text" name="poletext"  size="10" maxlength="10" onBlur="funkcja1(this)" /><br>
+</form>
+</body>
+
+</html>
